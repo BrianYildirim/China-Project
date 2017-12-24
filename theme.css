@@ -1,0 +1,31 @@
+header {
+  text-align: center;
+  background-color: #8B0000;
+  color: white;
+  height: 20%;
+  font-family: sans-serif;
+}
+
+#info {
+	text-align: center;
+	border-color: #8B0000;
+	border-style: solid;
+	width: 68%;
+	font-family: sans-serif;
+}
+
+#info {display:table; margin:0 auto;}
+
+#asdf {
+	width: 40%;
+	padding: 2%;
+}
+
+div.footer {
+	margin-left: 1%;
+	padding-bottom: 0.7%;
+}
+
+#qwerty {
+	font-family: sans-serif;
+}
